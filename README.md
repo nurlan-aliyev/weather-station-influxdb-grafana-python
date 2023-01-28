@@ -129,5 +129,12 @@ Prerequisites:
    <p><em>Figure 11</em></p>
   </div>
   
+  4.3. Final step is to add an action from the “Actions” panel which will open/run our script. The path to the script must be provided by the user (Figure 12.). 
+  
+   <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/c4f345aba95d627a29937ca23b925a284f26f54c/asset/sc3.png" alt="Figure 12">
+   <p><em>Figure 12</em></p>
+  </div>
+  
    
    
