@@ -107,3 +107,8 @@ Prerequisites:
    <p><em>Figure 9</em></p>
   </div>
   
+4. Automating
+
+  In order to run this script automatically we have chosen the most accessible one, Windows Task Scheduler. One of the caveats is that the machine which runs this script needs to be always on to function as a server. 
+  
+  It is fairly simple to create a task in Task Scheduler, first we right click “Task Scheduler (Local)” and select “Create Task…”. On the opened window we have couple of places to be filled. 
