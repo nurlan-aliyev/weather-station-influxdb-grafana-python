@@ -69,3 +69,26 @@ Prerequisites:
    <p><em>Figure 5</em></p>
   </div>
   
+  This operation needs to be done for all of the readings (Figure 6.). After this phase we create the CSV file, write the headers and the data list, then save the file in the directory (Figure 7.).
+  
+  <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/e9e22a52db4eec8aaafe265b60ece9a29360bd91/asset/carbon%20(4).png" alt="Figure 6">
+   <p><em>Figure 6</em></p>
+  </div>
+  
+  <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/e9e22a52db4eec8aaafe265b60ece9a29360bd91/asset/carbon%20(5).png" alt="Figure 7">
+   <p><em>Figure 7</em></p>
+  </div>
+  
+ 
+3. 	Writing CSV file to InfluxDB  
+
+ Finally, we have an annotated CSV file to write to our database. There are couple of things to pay attention:
+
+- The path to “influx-cli” which is installed and configured is required 
+-	The file path of CSV file we have created, which needs to be set once is required
+-	It is preferred to use “/” (forward slash) instead of “\” (backward slash) as the directory separator of the paths
+-	OS module needs to be imported
+-	Bucket name must be set
+-	This solution is to be used for Windows OS only
