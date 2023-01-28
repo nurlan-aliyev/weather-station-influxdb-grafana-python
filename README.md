@@ -26,7 +26,7 @@ Prerequisites:
 - Configure it as in *Figure 1* (Erased places include private tokens and server address)
 
 <div align="center">
-<img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/98dde8c92aad9d71b436c468fed7a12ac5cc1d0f/asset/1..png" alt="Figure 1">
+<img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/502a6ddc0768dedb2dfafb0f2e78ce8fba6de8cc/asset/influx_config.png" alt="Figure 1">
   <p><em>Figure 1</em></p>
 </div>
 
