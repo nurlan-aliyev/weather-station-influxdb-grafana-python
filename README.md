@@ -92,3 +92,10 @@ Prerequisites:
 -	OS module needs to be imported
 -	Bucket name must be set
 -	This solution is to be used for Windows OS only
+
+ The function which handles data writing is fairly simple, we inject CMD command into python file and let it run automatically (Figure 8.).
+
+  <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/0f5db117421ea1670d2fff8a271fdccd8e7425cc/asset/carbon%20(6).png" alt="Figure 8">
+   <p><em>Figure 8</em></p>
+  </div>
