@@ -53,7 +53,7 @@ Prerequisites:
   As there can be “None” values in the readings because of faulty sensors, we have an extra safety phase to turn values to 0. (This part is optional, Figure 4.)
   
   <div align="center">
-   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/7e741cfe56c0a0bb52d665dbb2dc451843a05e6c/asset/4.png" alt="Figure 4">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/62089c50edec1ab62dea4b85b17843a116a97fb1/asset/carbon%20(2).png" alt="Figure 4">
    <p><em>Figure 4</em></p>
   </div>
   
