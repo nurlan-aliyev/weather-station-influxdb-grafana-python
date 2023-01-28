@@ -39,7 +39,7 @@ Prerequisites:
   Here as the first stage, we are opening the URL address of the API point to get the returned JSON and assign it in a variable. Then we treat the data as JSON using the `json.loads()` method (Figure 2.).
   
   <div align="center">
-   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/7e741cfe56c0a0bb52d665dbb2dc451843a05e6c/asset/2..png" alt="Figure 2">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/a5b84ef8fc4f54aec28b5a6b6c4950be262e0b87/asset/1.1e.png" alt="Figure 2">
    <p><em>Figure 2</em></p>
   </div>
   
