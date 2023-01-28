@@ -136,5 +136,13 @@ Prerequisites:
    <p><em>Figure 12</em></p>
   </div>
   
+5. Grafana
+
+  After these operations we are ready to query the data and visualize it with customizable dashboards (Figure 13.). 
+  
+  <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/866da7d0da168b38e019c9ff1e654f53d81710ee/asset/gr.png" alt="Figure 13">
+   <p><em>Figure 13</em></p>
+  </div>
    
    
