@@ -111,4 +111,23 @@ Prerequisites:
 
   In order to run this script automatically we have chosen the most accessible one, Windows Task Scheduler. One of the caveats is that the machine which runs this script needs to be always on to function as a server. 
   
-  It is fairly simple to create a task in Task Scheduler, first we right click “Task Scheduler (Local)” and select “Create Task…”. On the opened window we have couple of places to be filled. 
+  It is fairly simple to create a task in Task Scheduler, first we right click “Task Scheduler (Local)” and select “Create Task…”. On the opened window we have couple of places to be filled.   
+  
+   4.1. Giving our task a name
+   
+   We can put whatever name we want to, but for clarity we have chosen “fetch_upload_data_to_influxdb” (Figure 10.)
+   
+   <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/c4f345aba95d627a29937ca23b925a284f26f54c/asset/sc1.png" alt="Figure 10">
+   <p><em>Figure 10</em></p>
+  </div>
+  
+  4.2. Next, we add a trigger in the “Triggers” panel. We set it to happen Daily with repeating the task every 10 mins for indefinite amount of time (Figure11.). 
+  
+   <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/c4f345aba95d627a29937ca23b925a284f26f54c/asset/sc2.png" alt="Figure 11">
+   <p><em>Figure 11</em></p>
+  </div>
+  
+   
+   
