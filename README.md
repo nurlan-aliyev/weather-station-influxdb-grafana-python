@@ -99,3 +99,11 @@ Prerequisites:
    <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/0f5db117421ea1670d2fff8a271fdccd8e7425cc/asset/carbon%20(6).png" alt="Figure 8">
    <p><em>Figure 8</em></p>
   </div>
+  
+  At this point, we have finished the main logic of the application, if we run the script with the rest of the Python code added we get the result (Figure 9.).
+  
+  <div align="center">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/246d888160aaa3f3187e1213d7ea861216b25aca/asset/final_cmd.png" alt="Figure 9">
+   <p><em>Figure 9</em></p>
+  </div>
+  
