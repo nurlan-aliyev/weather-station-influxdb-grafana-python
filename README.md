@@ -46,7 +46,7 @@ Prerequisites:
   Next, we are destructing the JSON response and picking the readings to store them into variables and get them into a list (Figure 3.).
   
   <div align="center">
-   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/7e741cfe56c0a0bb52d665dbb2dc451843a05e6c/asset/3.png" alt="Figure 3">
+   <img src="https://github.com/nurlan-aliyev/weather-station-influxdb-grafana-python/blob/3d924d7c32609b680ade6f56493fee2f118fd709/asset/carbon%20(1).png" alt="Figure 3">
    <p><em>Figure 3</em></p>
   </div>
 
