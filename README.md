@@ -1,5 +1,5 @@
 <div align="center">
-<b>Real-time data fetching and visualizing</b>
+<h1><b>Real-time data fetching and visualizing with Python & Grafana</b></h1>
 
 Aliyev Nurlan
 
